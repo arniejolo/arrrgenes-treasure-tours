@@ -56,8 +56,10 @@ body {
   text-decoration: none;
 }
 
-.nav a:hover, .nav a:focus {
+.nav a:hover,
+.nav a:focus {
   color: #fff;
+  outline: .5em solid #fff;
 }
 
 .banner {
