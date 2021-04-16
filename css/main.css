@@ -102,9 +102,8 @@ body {
   text-decoration: none;
 }
 
-.banner a:hover
 .banner a:focus {
-  outline: 5px solid #bea59b;
+  outline: 5px solid #fff;
 }
 
 .ship {
