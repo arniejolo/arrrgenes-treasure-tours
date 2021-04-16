@@ -102,6 +102,11 @@ body {
   text-decoration: none;
 }
 
+.banner a:hover
+.banner a:focus {
+  outline: .5em 1.5em .6em solid #bea59b;
+}
+
 .ship {
   padding: 2rem;
 }
