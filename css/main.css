@@ -56,6 +56,10 @@ body {
   text-decoration: none;
 }
 
+.nav a:hover, .nav a:focus {
+  color: #fff;
+}
+
 .banner {
   display: grid;
   grid-template-columns: 1fr;
@@ -63,6 +67,7 @@ body {
   grid-template-areas: "banner";
   color: #fff;
   font-size: 1.5rem;
+  background-color: #522806;
 }
 
 .banner img {
